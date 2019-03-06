@@ -633,7 +633,7 @@ Stel in en gebruik tijdelijk en standaard tijdelijke streefdoelen (bv. bij sport
     <string name="careportal_activity_label">ACTIVITEIT &amp; FEEDBACK</string>
     <string name="careportal_carbsandbolus_label">KOOLHYDRATEN &amp; BOLUS</string>
     <string name="careportal_cgm_label">CGM &amp; OPENAPS</string>
-    <string name="careportal_pump_label">POMO</string>
+    <string name="careportal_pump_label">POMP</string>
     <string name="overview_newtempbasal_basalabsolute">Basale waarde [E/uur]</string>
     <string name="careportal_newnstreatment_duration_min_label">Tijdsduur [min]</string>
     <string name="openapssmb">OpenAPS SMB</string>
