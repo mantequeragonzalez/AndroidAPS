@@ -1141,6 +1141,8 @@ Unerwartetes Verhalten.</string>
     <string name="dexcom_lognssensorchange_summary">Ereignis \"Sensorwechsel\" bei Sensorstart automatisch in NS erstellen</string>
     <string name="tomato">Tomato (MiaoMiao)</string>
     <string name="tomato_short">Tomato</string>
+    <string name="storage">interne Speicherbegrenzung</string>
+    <string name="diskfull">Mindestens %1$d MB freier interer Speicher benötigt! Loop abgeschaltet!</string>
     <plurals name="objective_days">
         <item quantity="one">%1$d Tag</item>
         <item quantity="other">%1$d Tage</item>
