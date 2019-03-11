@@ -44,6 +44,8 @@
     <string name="description_sensitivity_oref1">Sensitiwiteit word bereken uit 8h data in die verlede en koolhidrate (indien nie geabsorbeer) is na die tyd vermeld in voorkeure gesny. Plugin bereken ook UAM.</string>
     <string name="description_sensitivity_weighted_average">Sensitiwiteit word bereken as \'n geweegde gemiddelde van dwalinge. Nuwer dwalinge het hoër gewig. Minimale karb absorpsie is bereken uit max karb absorpsie tyd vanaf voorkeure. Hierdie algoritme is die vinnigste om sensitiwiteit veranderinge te volg.</string>
     <string name="description_source_dexcom_g5">Ontvang BG waardes vanaf die gelapte Dexcom G5 app.</string>
+    <string name="description_source_dexcom_g6">Ontvang BG waardes vanaf die gelapte Dexcom G6 toep.</string>
+    <string name="description_source_eversense">Ontvang BG waardes uit die gelapte Eversense toep.</string>
     <string name="description_source_glimp">Ontvang BG waardes vanaf Glimp.</string>
     <string name="description_source_mm640g">Onvang BG waardes vanaf die 600SeriesAndroidUploader.</string>
     <string name="description_source_ns_client">Laai BG data af vanaf Nightscout</string>
@@ -549,6 +551,8 @@
     <string name="insulin_shortname">INS</string>
     <string name="enablesuperbolus">Ontsper superbolus in Ghoeroe</string>
     <string name="enablesuperbolus_summary">Ontsper superbolus funksionaliteit in Ghoeroe. Moenie aktiveer totdat jy leer wat dit werklik doen. DIT KAN \'n INSULIEN OORDOSIS VEROORSAAK AS BLINDELINGS GEBRUIK WORD!</string>
+    <string name="show_statuslights">Wys status vlae op tuisskerm</string>
+    <string name="statuslights_res_warning">Drempel waarskuwings stoor vlak [U]</string>
     <string name="iob">IAB</string>
     <string name="cob">KOB</string>
     <string name="virtualpump_firmware_label">Firmware</string>
