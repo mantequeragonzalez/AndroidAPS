@@ -1066,6 +1066,15 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="pump_time_updated">Mise à jour de l\'heure de la pompe</string>
     <string name="confirm">Confirmer</string>
     <string name="pump_alert">Alerte de la pompe</string>
+    <string name="serial_number">Numéro de série</string>
+    <string name="ui_processor_software_version">Version du logiciel de processeur UI</string>
+    <string name="pc_processor_software_version">Version du logiciel du processeur PC</string>
+    <string name="md_tel_processor_software_version">Version du logiciel MD tel processeur</string>
+    <string name="safety_processor_software_version">Version logicielle du processeur de sécurité</string>
+    <string name="bt_info_page_version">Version de la page d\'info BT</string>
+    <string name="bluetooth_address">Adresse Bluetooth</string>
+    <string name="manufacturing_date">Date de fabrication</string>
+    <string name="start_pump">Démarrer la pompe</string>
     <string name="profile_total">== ∑  %1$s U</string>
     <string name="profile_ins_units_per_hout">U/h</string>
     <string name="profile_carbs_per_unit">g/U</string>
