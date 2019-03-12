@@ -44,6 +44,8 @@
     <string name="description_sensitivity_oref1">Sensibilité est calculée à partir des données des dernières 8 heures et des glucides (si non absorbés) ne sont plus pris en compte après le temps spécifié dans les préférences. Plugin calcule également UAM.</string>
     <string name="description_sensitivity_weighted_average">Sensibilité est calculée comme une moyenne pondérée des écarts. Les écarts les plus récents ont un poids plus élevé. L\'absorption minimale des glucides est calculée à partir des temps d’absorption des glucides max du menu préférences. Cet algorithme est le plus rapide pour s\'adapter aux changements de sensibilité.</string>
     <string name="description_source_dexcom_g5">Recevoir les valeurs de glycémie de l’app Dexcom G5 patchée.</string>
+    <string name="description_source_dexcom_g6">Recevoir les valeurs de glycémie de l’app Dexcom G6 patchée.</string>
+    <string name="description_source_eversense">Recevoir les valeurs de glycémie de l’app Eversense patchée.</string>
     <string name="description_source_glimp">Recevoir les glycémies depuis Glimp.</string>
     <string name="description_source_mm640g">Recevoir les glycémies depuis le 600SeriesAndroidUploder.</string>
     <string name="description_source_ns_client">Télécharge les glycémies depuis Nightscout</string>
@@ -550,6 +552,8 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="insulin_shortname">INS</string>
     <string name="enablesuperbolus">Activer les Superbolus dans l’Assistant</string>
     <string name="enablesuperbolus_summary">Activer la fonctionnalité SuperBolus dans l’Assistant. Ne pas l’activer avant de bien comprendre comment cela fonctionne réellement. IL PEUT PROVOQUER UNE OVERDOSE D’INSULINE SI UTILISÉ AVEUGLÉMENT !</string>
+    <string name="show_statuslights">Afficher les lumières d\'état sur l\'écran d\'accueil</string>
+    <string name="statuslights_bat_warning">Seuil d’avertissement du niveau de batterie [%]</string>
     <string name="iob">IA</string>
     <string name="cob">GA</string>
     <string name="virtualpump_firmware_label">Firmware</string>
@@ -704,6 +708,8 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="btwatchdog_title">BT Watchdog</string>
     <string name="btwatchdog_summary">Ceci va arrêter le Bluetooth du téléphone pour une seconde si la connexion pompe n’est pas possible. Cela peut assister certains téléphones dont la connexion Bluetooth se bloque.</string>
     <string name="DexcomG5">App Dexcom G5 (adaptée)</string>
+    <string name="DexcomG6">App DexcomG6 (patché)</string>
+    <string name="eversense">App Eversense (patché)</string>
     <string name="dexcomg5_nsupload_title">Remonter les données glycémiques vers NS</string>
     <string name="wear_detailed_delta_title">Afficher le delta détaillé</string>
     <string name="wear_detailed_delta_summary">Afficher delta avec une décimale supplémentaire</string>
@@ -770,6 +776,7 @@ L\'ENSEMBLE DES RISQUES LIÉS À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME S
     <string name="combo_error_bolus_verification_failed">L\'administration de bolus et la vérification de l\'historique de la pompe ont échoué. Vérifiez la pompe manuellement. Si un bolus a été administré, il sera ajouté aux traitements au cours de la prochaine connexion avec la pompe.</string>
     <string name="combo_reservoir_level_insufficient_for_bolus">Pas assez d\'insuline dans le réservoir pour le bolus</string>
     <string name="extendedbolusdeliveryerror">Erreur administration bolus étendu</string>
+    <string name="insightpump_shortname">Vue</string>
     <string name="insightpump">Pompe Insight</string>
     <string name="status_no_colon">État</string>
     <string name="changed">Modifié</string>
