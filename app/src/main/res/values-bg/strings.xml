@@ -54,6 +54,7 @@
     <string name="description_wear">Наблюдавайте и контролирайте AndroidAPS, от вашия WearOS часовник.</string>
     <string name="description_xdrip_status_line">Покажи информация за вашия APS на xDrip + циферблат на часовник.</string>
     <string name="description_sms_communicator">Дистанционно управление AndroidAPS чрез използване на SMS команди.</string>
+    <string name="objectives_button_back">Назад</string>
     <string name="objectives_button_start">Стартирай</string>
     <string name="objectives_button_verify">Провери</string>
     <string name="nsprofileview_units_label">Единици</string>
