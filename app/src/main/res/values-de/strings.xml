@@ -54,6 +54,7 @@
     <string name="description_wear">Überwache und steuere AndroidAPS mit Deiner WearOS-Smartwatch.</string>
     <string name="description_xdrip_status_line">Zeige Loop-Informationen auf Deinem xDrip+-Watchface.</string>
     <string name="description_sms_communicator">Steuere AndroiAPS fern mittels SMS-Anweisungen.</string>
+    <string name="objectives_button_back">Zurück</string>
     <string name="objectives_button_start">Start</string>
     <string name="objectives_button_verify">Bestätigen</string>
     <string name="nsprofileview_units_label">Einheiten</string>
@@ -1141,6 +1142,8 @@ Unerwartetes Verhalten.</string>
     <string name="dexcom_lognssensorchange_summary">Ereignis \"Sensorwechsel\" bei Sensorstart automatisch in NS erstellen</string>
     <string name="tomato">Tomato (MiaoMiao)</string>
     <string name="tomato_short">Tomato</string>
+    <string name="dst_in_24h_warning">Zeitumstellung in weniger als 24 Stunden</string>
+    <string name="dst_loop_disabled_warning">Zeitumstellung in weniger als 3 Stunden - Closed loop deaktiviert</string>
     <string name="storage">interne Speicherbegrenzung</string>
     <string name="diskfull">Mindestens %1$d MB freier interer Speicher benötigt! Loop abgeschaltet!</string>
     <plurals name="objective_days">
