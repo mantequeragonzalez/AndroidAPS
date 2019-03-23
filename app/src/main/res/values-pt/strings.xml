@@ -54,6 +54,7 @@
     <string name="description_wear">Monitorizar e controlar o AndroidAPS usando o seu relógio WearOS.</string>
     <string name="description_xdrip_status_line">Mostrar informações sobre o loop no watchface do xDrip+.</string>
     <string name="description_sms_communicator">Controlar remotamente o AndroidAPS usando comandos SMS.</string>
+    <string name="objectives_button_back">Anterior</string>
     <string name="objectives_button_start">Iniciar</string>
     <string name="objectives_button_verify">Verificar</string>
     <string name="nsprofileview_units_label">Unidades</string>
@@ -1112,11 +1113,15 @@
     <string name="extended_bolus">Bólus estendido</string>
     <string name="multiwave_bolus">Bólus Multi-Onda</string>
     <string name="eb_formatter">%1$.2f / %2$.2f U por %3$d min</string>
+    <string name="disable_tbr_over_notification">Desativar notificação do fim da basal temporária\n(configuração da bomba)</string>
     <string name="refresh">Actualizar</string>
     <string name="description_pump_insight_local">Integração de bomba para bombas Accu-Chek Insight</string>
     <string name="not_inserted">Não inserido</string>
+    <string name="short_status_last_connected">Última conexão:%1$d minutos atrás</string>
+    <string name="short_status_tbr">Basal temporária: %1$d%% para %2$d / %3$d minutos</string>
     <string name="short_status_extended">Estendido: %1$.2f / %2$.2f U por %3$d min</string>
     <string name="short_status_multiwave">Multionda: %1$.2f / %2$.2f U por %3$d min</string>
+    <string name="short_status_reservoir">Reser:%1$.2fU</string>
     <string name="max_recovery_duration">Duração máxima da recuperação [s]</string>
     <string name="min_recovery_duration">Duração mínima da recuperação [s]</string>
     <string name="recovery_duration">Duração da recuperação</string>
